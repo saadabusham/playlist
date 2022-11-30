@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0, | Filmrise
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:0, | Gravitas Movies
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+#EXTINF:0, | MovieMix
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:0, Westerns
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:0,1
+https://videos-hwcdn.wurl.com/39330443/hls/1200-00037.ts
+#EXTINF:10,2
+https://videos-hwcdn.wurl.com/39330443/hls/1200-00038.ts
+#EXTINF:10,3
+https://videos-hwcdn.wurl.com/39330443/hls/1200-00039.ts
+#EXTINF:10,4
+https://videos-hwcdn.wurl.com/39330443/hls/1200-00040.ts
+#EXTINF:10,5
+https://videos-hwcdn.wurl.com/39330443/hls/1200-00041.ts
+#EXTINF:10,6
+https://videos-hwcdn.wurl.com/39330443/hls/1200-00042.ts
+#EXTINF:10,7
+https://videos-hwcdn.wurl.com/39330443/hls/1200-00043.ts
+#EXTINF:10,8
+https://videos-hwcdn.wurl.com/39330443/hls/1200-00044.ts
+#EXTINF:10,
+https://videos-hwcdn.wurl.com/39330443/hls/1200-00045.ts
+#EXTINF:10,9
+https://videos-hwcdn.wurl.com/39330443/hls/1200-00046.ts
+#EXTINF:0, Black Cinema
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
+#EXTINF:0, Comedy
+https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
+#EXTINF:0, | Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
